@@ -1,0 +1,38 @@
+ul.user {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 60px;
+	float: left;
+}
+li.user {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+}
+ul.bottomleft {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 60px;
+}
+li.bottomleft {
+    float: left;
+}
+
+ul.bottomright {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	width: 60px;
+	float: right;
+}
+li.bottomright {
+    float: right;
+}
